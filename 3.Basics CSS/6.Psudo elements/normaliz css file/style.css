@@ -1,0 +1,21 @@
+body{
+    margin: 10px;
+}
+
+p::first-letter {
+    font-size: 140%;
+    font-weight: bold;
+}
+p::first-line {
+    font-weight: bold;
+    color: blueviolet;
+}
+p::selection {
+    background-color: orange;
+}
+p::before {
+    content: ".......";
+}
+p::after {
+    content: "?>>>";
+}
