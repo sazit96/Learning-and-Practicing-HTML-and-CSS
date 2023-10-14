@@ -1,0 +1,22 @@
+body{
+    margin: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    color: white;
+    background-color:  #427fef;
+}
+.hi {
+    color: white;
+    background-color:  #427fef;
+}
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+}
+tr:nth-child(odd) {
+    background-color:#eef7ff ;
+}

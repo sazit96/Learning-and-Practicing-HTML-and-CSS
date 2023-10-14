@@ -1,0 +1,13 @@
+body{
+    margin: 10px;
+}
+.borders {
+    height: 300px;
+    width: 300px;
+    background: dodgerblue;
+    border: 5px dotted royalblue;
+    border-top: 10px solid red;
+    border-right: 10px dotted green;
+    border-width: 10px 20px ;
+    border-radius: 100px;
+}

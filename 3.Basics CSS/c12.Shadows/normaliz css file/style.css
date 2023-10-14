@@ -1,0 +1,13 @@
+body{
+    margin: 10px;
+}
+.shadow {
+    height: 300px;
+    width: 300px;
+    background: rgb(128, 126, 0);
+    box-shadow: 0px 0px 50px gray;
+}
+h1 {
+    color: wheat;
+    text-shadow: 1px 3px 50px rgba(130, 208, 27, 0.5);
+}
