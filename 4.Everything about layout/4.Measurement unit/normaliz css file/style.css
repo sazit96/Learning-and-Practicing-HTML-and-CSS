@@ -1,0 +1,12 @@
+html {
+    font-size: 62.5%;
+}
+body{
+    margin: 10px;
+}
+.box {
+    height: 50vh;
+    width: 15rem;
+    background-color: gold;
+    border-top: 3px solid orange;
+}
