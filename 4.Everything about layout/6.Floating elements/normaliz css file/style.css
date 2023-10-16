@@ -1,0 +1,14 @@
+body{
+    margin: 10px;
+}
+
+.avater {
+    height: 5rem;
+    width: 5rem;
+    background: gold;
+    float: left;
+    margin-right: 0.5rem;
+}
+.clear {
+    clear: both;
+}

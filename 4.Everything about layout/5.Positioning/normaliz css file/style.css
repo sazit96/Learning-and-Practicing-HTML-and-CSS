@@ -1,0 +1,22 @@
+body{
+    margin: 10px;
+}
+.boxes {
+    border: 3px solid lightgray;
+    position: relative;
+}
+.box {
+    width: 5rem;
+    height: 5rem;
+}
+.box-one {
+    background: deeppink;
+}
+.box-two {
+    background: tomato;
+    position: absolute;
+    left: 5rem;
+}
+.box-three {
+    background: dodgerblue;
+}
