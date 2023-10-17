@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+}
+
+.contaner {
+    display: grid;
+    grid-template-rows: repeat(3,100px);
+    grid-template-columns: repeat(2,100px);
+    grid-template: 100px auto 100px  / 30fr 70fr;
+    row-gap: 10px;
+    column-gap: 10px;
+    border: 3px solid gold;
+
+}
+.box {
+    background: gold;
+}
+.onebox {
+    background: red;
+    grid-column:2;
+}
+.threebox {
+    background: dodgerblue;
+    grid-row: 3;
+}

@@ -1,0 +1,21 @@
+body{
+    margin: 10px;
+}
+
+continer {
+    display: flex;
+    flex-direction: column;
+}
+.box {
+    background: dodgerblue;
+    padding: 1rem;
+}
+.box:nth-of-type(2) {
+    background: deeppink;
+}
+@media screen and (min-width:600px) and (max-width:900px)
+{
+    .continer {
+        flex-direction: row;
+    }
+}
