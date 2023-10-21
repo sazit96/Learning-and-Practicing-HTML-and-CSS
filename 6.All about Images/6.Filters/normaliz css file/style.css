@@ -1,0 +1,6 @@
+body{
+    margin: 10px;
+}
+.mail:hover {
+    filter: grayscale(50%) blur(3px);
+}
