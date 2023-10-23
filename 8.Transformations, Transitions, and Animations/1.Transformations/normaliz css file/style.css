@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box,.box1,.box2,.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+}
+.box:hover {
+    transform: rotate(15deg) translateX(20px);
+}
+.box1:hover {
+    transform: scale(0.5);
+}
+.box2:hover {
+    transform: skew(15deg );
+}
+.box3:hover {
+    transform: translate(10px ,10px);
+}
