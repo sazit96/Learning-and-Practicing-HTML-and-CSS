@@ -1,0 +1,12 @@
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    color: rgb(139, 63, 0);
+}
+li {
+    color: gray;
+    margin: 0.5 0;
+}
+div {
+    height: 100vh;
+}
