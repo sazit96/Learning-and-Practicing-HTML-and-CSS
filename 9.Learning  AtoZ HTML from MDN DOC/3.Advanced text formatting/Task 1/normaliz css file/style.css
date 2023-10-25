@@ -1,0 +1,12 @@
+body{
+    margin: 10px;
+}
+h1,dt {
+    font-size: 2rem;
+    font-weight: bold;
+    color: deeppink;
+}
+dd {
+    color: gray;
+    margin: 0.5em 0;
+}
