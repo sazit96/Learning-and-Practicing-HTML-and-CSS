@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: dodgerblue;
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: 1px solid purple;
+}
+h2 {
+  font-size: 1.5rem;
+}
+.job-title {
+  color: cornflowerblue;
+  font-weight: bold;
+}
+a:link, a:visited {
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+}
