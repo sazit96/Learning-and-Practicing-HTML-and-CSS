@@ -1,0 +1,11 @@
+.box {
+    width: 300px;
+    height: 150px;
+    background-color: dodgerblue;
+    border: 10px solid rebeccapurple;
+    border-radius: 1em;
+    border-top-right-radius: 10% 30%;
+    background-image: url(star.png), url(star.png), url(star.png);
+    background-repeat: no-repeat;
+    background-position: 15px bottom;
+}

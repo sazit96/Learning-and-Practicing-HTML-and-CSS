@@ -1,0 +1,40 @@
+p,
+ul {
+  border: 2px solid rebeccapurple;
+  padding: .5em;
+}
+
+.block,
+li {
+  border: 2px solid blue;
+  padding: .5em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+.block {
+  display: block;
+}
+.box {
+    width: 350px;
+    inline-size: 350px;
+    height: 150px;
+    block-size: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+  }
+  .links-list a {
+    background-color: rgb(179,57,81);
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 2em;
+  }
+  
+  .links-list a:hover {
+    background-color: rgb(66, 28, 40);
+    color: #fff;
+  }

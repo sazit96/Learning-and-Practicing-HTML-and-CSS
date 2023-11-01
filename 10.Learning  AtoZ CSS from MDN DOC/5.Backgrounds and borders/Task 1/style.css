@@ -1,0 +1,14 @@
+body {
+    background-color: #fff;
+}
+.box {
+    width: 350px;
+    height: 150px;
+    padding: 2rem;
+    background-image: url(balloons.jpg);
+    background-position: 10px;
+    background-repeat: repeat;
+    border: 10px solid rebeccapurple;
+    border-radius: 1em;
+    border-top-right-radius: 10% 30%;
+}

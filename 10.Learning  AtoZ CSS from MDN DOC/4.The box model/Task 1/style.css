@@ -1,0 +1,11 @@
+.box {
+    width: 450px;
+    height: 250px;
+    border: 10px solid yellow;
+    padding: 15px;
+    margin: 15px;
+    background-color: blueviolet;
+}
+.alternative {
+    box-sizing: border-box;
+}
